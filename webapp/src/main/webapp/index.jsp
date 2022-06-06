@@ -6,6 +6,7 @@
 
   <div class="container" style="background-color:white">
     <input type="text" placeholder="Name" name="name" required>
+    <br>
     <input type="text" placeholder="Email address" name="mail" required>
     <label>
       <input type="checkbox" checked="checked" name="subscribe"> Daily Newsletter
